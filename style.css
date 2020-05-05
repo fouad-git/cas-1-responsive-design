@@ -16,4 +16,31 @@
      url('fonts/Rubik-Medium.ttf') format('truetype'),
      url('fonts/Rubik-Medium.svg') format('svg');
 	font-weight: normal;
-	font-style: normal;
+    font-style: normal;}
+
+
+    .titre-article
+    {
+        font-family:'Rubik-Medium',sans-serif ;
+        font-size: 1.25rem;
+        line-height: 1.5rem;
+        color: #2E2E2E;
+    }
+    .texte-article
+    {
+        font-family:'Rubik-Regular',sans-serif;
+        font-size: 1rem;
+        line-height: 1.875rem;
+        color: #5E5E5E;
+    }
+
+
+    .contain
+    {
+        width:1170px;
+        height:500px;
+        background-color: #FFFFFF;
+        margin: 115px 375px 98px 375px;
+    }
+
+    
